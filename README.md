@@ -1,1 +1,11 @@
 # CS-255
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+  The DriverPass project was for a company that wants to provide driving lessons to those who are preparing for their driver's license test. The client wanted a web-based system     that would allow their customers to book and purchase lessons as well as practice tests. 
+What did you do particularly well?
+  I think that my diagrams are easy to read, thourough and visually organized.
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+  If I could revise one part of my work on this project it would be the technical requirements section. I know very little about estimating real life technical requirements and as   such my technical requirements are rather vague and use wide ranges.
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+  One way that I interpreted the user's needs and implemented it into my system design was in the reservation sequence diagram. It was not mentioned in the provided materials but   didn't think a customer would want to sit at their computer entering dates and times for appointments blindly and hoping for a confirmation email as if they were playing           Battleship. I decided to include a representation of retrieving and displaying only the available appointment slots to the customer. This is an obvious example but it is           important to take into account the experience of the end user especially when it will affect how a customer views a business.
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+  To approach a new software design it is important to start by gathering all of the necessary requirements, both functional and non functional, and then begin to lay out a system   design that meets all of the requirements. I definitely found it was important in this project to make sure all of the requirements were considered before moving on to the next    step because adding a new use case or a few new classes can have a ripple effect on a lot of the other diagrams and designs.
